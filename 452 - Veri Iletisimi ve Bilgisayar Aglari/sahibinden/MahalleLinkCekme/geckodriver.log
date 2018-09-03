@@ -1,0 +1,1185 @@
+1526733020156	geckodriver	INFO	geckodriver 0.20.1
+1526733020159	geckodriver	INFO	Listening on 127.0.0.1:47589
+1526733021170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZXdsp7XBRGwT"
+1526733022903	Marionette	INFO	Listening on port 40651
+1526733022981	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526733047021	geckodriver	INFO	geckodriver 0.20.1
+1526733047024	geckodriver	INFO	Listening on 127.0.0.1:44567
+1526733048035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pd09InxtJuTW"
+1526733049242	Marionette	INFO	Listening on port 33415
+1526733049341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526733246632	geckodriver	INFO	geckodriver 0.20.1
+1526733246635	geckodriver	INFO	Listening on 127.0.0.1:55323
+1526733247641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JQnYecM4INou"
+1526733248843	Marionette	INFO	Listening on port 33955
+1526733248849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://devtools/content/inspector/inspector.js, line 178: TypeError: this._toolbox is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526733289086	geckodriver	INFO	geckodriver 0.20.1
+1526733289089	geckodriver	INFO	Listening on 127.0.0.1:43123
+1526733290099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qBwoJSoJimCe"
+1526733291364	Marionette	INFO	Listening on port 45719
+1526733291408	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526733323477	geckodriver	INFO	geckodriver 0.20.1
+1526733323481	geckodriver	INFO	Listening on 127.0.0.1:54687
+1526733324490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bRbwkMxF4CdU"
+1526733325776	Marionette	INFO	Listening on port 41257
+1526733325799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526733482855	geckodriver	INFO	geckodriver 0.20.1
+1526733482858	geckodriver	INFO	Listening on 127.0.0.1:36211
+1526733483867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nYGL7Y6QvcGe"
+1526733485099	Marionette	INFO	Listening on port 35261
+1526733485176	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526733524289	geckodriver	INFO	geckodriver 0.20.1
+1526733524292	geckodriver	INFO	Listening on 127.0.0.1:52361
+1526733525302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SPBsRh2zKn7T"
+1526733526527	Marionette	INFO	Listening on port 32785
+1526733526608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526733560759	geckodriver	INFO	geckodriver 0.20.1
+1526733560762	geckodriver	INFO	Listening on 127.0.0.1:54157
+1526733561772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JipDY6k6y3qk"
+1526733562978	Marionette	INFO	Listening on port 41151
+1526733563079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526733648863	geckodriver	INFO	geckodriver 0.20.1
+1526733648866	geckodriver	INFO	Listening on 127.0.0.1:50795
+1526733649871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8niKufllbzpj"
+1526733651164	Marionette	INFO	Listening on port 42523
+1526733651190	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1526733843788	geckodriver	INFO	geckodriver 0.20.1
+1526733843791	geckodriver	INFO	Listening on 127.0.0.1:37529
+1526733870805	geckodriver	INFO	geckodriver 0.20.1
+1526733870809	geckodriver	INFO	Listening on 127.0.0.1:40391
+1526733899136	geckodriver	INFO	geckodriver 0.20.1
+1526733899139	geckodriver	INFO	Listening on 127.0.0.1:53573
+1526733900147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.W9A4VlpyD9bF"
+*** You are running in headless mode.
+1526733901245	Marionette	INFO	Listening on port 45591
+1526733901253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526735252763	geckodriver	INFO	geckodriver 0.18.0
+1526735252773	geckodriver	INFO	Listening on 127.0.0.1:16307
+1526735255867	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1526735266087	Marionette	INFO	Listening on port 16328
+1526735266127	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tmssl.akamaized.net//js/swiper.min.3.4.1.js?lm=1519726637, line 17: TypeError: window.getComputedStyle(...) is null
+[Parent 18060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526735526136	geckodriver	INFO	geckodriver 0.18.0
+1526735526146	geckodriver	INFO	Listening on 127.0.0.1:16956
+1526735529261	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1526735535737	Marionette	INFO	Listening on port 16968
+1526735535879	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 20252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 20400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+c, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526736228004	geckodriver	INFO	geckodriver 0.18.0
+1526736228014	geckodriver	INFO	Listening on 127.0.0.1:18440
+1526736231092	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1526736237546	Marionette	INFO	Listening on port 18448
+1526736238511	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+346
+[Paren[Parent 10328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.vrpath
+[Child 12168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src[Parent 3312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526737186427	geckodriver	INFO	geckodriver 0.18.0
+1526737186435	geckodriver	INFO	Listening on 127.0.0.1:20402
+1526737189509	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1526737191545	Marionette	INFO	Listening on port 20410
+1526737192645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526737333043	geckodriver	INFO	geckodriver 0.18.0
+1526737333054	geckodriver	INFO	Listening on 127.0.0.1:20505
+1526737336168	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1526737338326	Marionette	INFO	Listening on port 20514
+1526737339291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526737551177	geckodriver	INFO	geckodriver 0.18.0
+1526737551186	geckodriver	INFO	Listening on 127.0.0.1:21025
+1526737554257	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1526737556501	Marionette	INFO	Listening on port 21033
+1526737557376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526737585619	geckodriver	INFO	geckodriver 0.18.0
+1526737585628	geckodriver	INFO	Listening on 127.0.0.1:21118
+1526737588664	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1526737591232	Marionette	INFO	Listening on port 21126
+1526737591785	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Can\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526737737724	geckodriver	INFO	geckodriver 0.18.0
+1526737737731	geckodriver	INFO	Listening on 127.0.0.1:21456
+1526737740773	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1526737743166	Marionette	INFO	Listening on port 21464
+1526737743885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526739349061	geckodriver	INFO	geckodriver 0.20.1
+1526739349067	geckodriver	INFO	Listening on 127.0.0.1:39293
+1526739350075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4LSxGa8dUeIS"
+1526739351916	Marionette	INFO	Listening on port 39383
+1526739351985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526739439222	geckodriver	INFO	geckodriver 0.20.1
+1526739439226	geckodriver	INFO	Listening on 127.0.0.1:54965
+1526739440238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mrttAdHmjs7O"
+1526739441882	Marionette	INFO	Listening on port 46523
+1526739441957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526739895938	geckodriver	INFO	geckodriver 0.20.1
+1526739895954	geckodriver	INFO	Listening on 127.0.0.1:55457
+1526739896953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eIiQT2qsqAFE"
+1526739898394	Marionette	INFO	Listening on port 33713
+1526739898472	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526739940788	geckodriver	INFO	geckodriver 0.20.1
+1526739940791	geckodriver	INFO	Listening on 127.0.0.1:40125
+1526739941803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.W2yaBFTuHTYa"
+1526739943012	Marionette	INFO	Listening on port 37713
+1526739943109	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526739991143	geckodriver	INFO	geckodriver 0.20.1
+1526739991146	geckodriver	INFO	Listening on 127.0.0.1:55681
+1526739992157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i5cg5idAQc44"
+1526739993370	Marionette	INFO	Listening on port 39971
+1526739993463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526740042027	geckodriver	INFO	geckodriver 0.20.1
+1526740042031	geckodriver	INFO	Listening on 127.0.0.1:49543
+1526740043039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SigDpF5ENWjV"
+1526740044262	Marionette	INFO	Listening on port 38441
+1526740044346	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19223, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526740069375	geckodriver	INFO	geckodriver 0.20.1
+1526740069378	geckodriver	INFO	Listening on 127.0.0.1:56143
+1526740070388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5MJmu7gPMw4L"
+1526740071607	Marionette	INFO	Listening on port 45019
+1526740071693	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19870, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526740121863	geckodriver	INFO	geckodriver 0.20.1
+1526740121867	geckodriver	INFO	Listening on 127.0.0.1:40291
+1526740122878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tzZzLfzeZpw3"
+1526740124184	Marionette	INFO	Listening on port 35113
+1526740124283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526803712005	geckodriver	INFO	geckodriver 0.20.1
+1526803712009	geckodriver	INFO	Listening on 127.0.0.1:50791
+1526803713014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uwEHw4pDCNoj"
+1526803714328	Marionette	INFO	Listening on port 46125
+1526803714420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526803767464	geckodriver	INFO	geckodriver 0.20.1
+1526803767469	geckodriver	INFO	Listening on 127.0.0.1:53211
+1526803768475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2aAJi4hgVhfO"
+1526803769827	Marionette	INFO	Listening on port 41845
+1526803769886	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28376, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527081932734	geckodriver	INFO	geckodriver 0.20.1
+1527081932739	geckodriver	INFO	Listening on 127.0.0.1:54969
+1527081933741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DGGAlSrOGKaY"
+1527081934971	Marionette	INFO	Listening on port 40759
+1527081935045	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527082131649	geckodriver	INFO	geckodriver 0.20.1
+1527082131654	geckodriver	INFO	Listening on 127.0.0.1:40997
+1527082132655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GUDtYphy87hz"
+1527082134012	Marionette	INFO	Listening on port 40191
+1527082134064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527082138293	geckodriver	INFO	geckodriver 0.20.1
+1527082138297	geckodriver	INFO	Listening on 127.0.0.1:45073
+1527082139308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xx9APcMVjBkD"
+1527082140587	Marionette	INFO	Listening on port 39339
+1527082140629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527082142706	geckodriver	INFO	geckodriver 0.20.1
+1527082142711	geckodriver	INFO	Listening on 127.0.0.1:33007
+1527082143711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nLQWcjmDvKhg"
+1527082144989	Marionette	INFO	Listening on port 42435
+1527082145028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527082636330	geckodriver	INFO	geckodriver 0.20.1
+1527082636334	geckodriver	INFO	Listening on 127.0.0.1:34879
+1527082637342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vYLEyQfq2UYS"
+1527082638648	Marionette	INFO	Listening on port 34783
+1527082638748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527082858018	geckodriver	INFO	geckodriver 0.20.1
+1527082858021	geckodriver	INFO	Listening on 127.0.0.1:35807
+1527082859029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pw1nL7EhyMEE"
+1527082860359	Marionette	INFO	Listening on port 45129
+1527082860434	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527082865945	geckodriver	INFO	geckodriver 0.20.1
+1527082865950	geckodriver	INFO	Listening on 127.0.0.1:37167
+1527082866959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pjkFKoArnsur"
+1527082868230	Marionette	INFO	Listening on port 41123
+1527082868271	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527082875544	geckodriver	INFO	geckodriver 0.20.1
+1527082875550	geckodriver	INFO	Listening on 127.0.0.1:44909
+1527082876555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YDAk3hrRu8xs"
+1527082877830	Marionette	INFO	Listening on port 37575
+1527082877870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527083265471	geckodriver	INFO	geckodriver 0.20.1
+1527083265475	geckodriver	INFO	Listening on 127.0.0.1:51121
+1527083266482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2arjBHD7rHIZ"
+1527083267769	Marionette	INFO	Listening on port 34233
+1527083267790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527083383338	geckodriver	INFO	geckodriver 0.20.1
+1527083383344	geckodriver	INFO	Listening on 127.0.0.1:44261
+1527083384349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3gTE6gyA8G4U"
+1527083385685	Marionette	INFO	Listening on port 34223
+1527083385757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527083855790	geckodriver	INFO	geckodriver 0.20.1
+1527083855794	geckodriver	INFO	Listening on 127.0.0.1:48263
+1527083856802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mLoKmvNCSIly"
+1527083858138	Marionette	INFO	Listening on port 45867
+1527083858209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527083907033	geckodriver	INFO	geckodriver 0.20.1
+1527083907038	geckodriver	INFO	Listening on 127.0.0.1:42567
+1527083908046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.trvFGxmBMuJt"
+1527083909337	Marionette	INFO	Listening on port 42643
+1527083909357	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28574, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28574, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527104293861	geckodriver	INFO	geckodriver 0.20.1
+1527104293869	geckodriver	INFO	Listening on 127.0.0.1:38571
+1527104294872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zheAsA9IfqM1"
+1527104296553	Marionette	INFO	Listening on port 46771
+1527104296593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527104378490	geckodriver	INFO	geckodriver 0.20.1
+1527104378493	geckodriver	INFO	Listening on 127.0.0.1:56313
+1527104379501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cg9Ewi5HSebp"
+1527104380738	Marionette	INFO	Listening on port 40021
+1527104380813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527108180958	geckodriver	INFO	geckodriver 0.20.1
+1527108180964	geckodriver	INFO	Listening on 127.0.0.1:52423
+1527108181975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IIZxJLBLIL5g"
+1527108183835	Marionette	INFO	Listening on port 44535
+1527108183886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527157145884	geckodriver	INFO	geckodriver 0.20.1
+1527157145888	geckodriver	INFO	Listening on 127.0.0.1:40525
+1527157146900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bqVlPAZC8chO"
+1527157148339	Marionette	INFO	Listening on port 43987
+1527157148406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527157212296	geckodriver	INFO	geckodriver 0.20.1
+1527157212308	geckodriver	INFO	Listening on 127.0.0.1:55439
+1527157213308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HWqOQA2F6Jr8"
+1527157214770	Marionette	INFO	Listening on port 46709
+1527157214828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527159662647	geckodriver	INFO	geckodriver 0.20.1
+1527159662651	geckodriver	INFO	Listening on 127.0.0.1:34969
+1527159663651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jq9rPfVnqLbb"
+1527159665134	Marionette	INFO	Listening on port 46789
+1527159665166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527159990176	geckodriver	INFO	geckodriver 0.20.1
+1527159990185	geckodriver	INFO	Listening on 127.0.0.1:35319
+1527159991189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1IAkWoFYEwFz"
+1527159992661	Marionette	INFO	Listening on port 40845
+1527159992700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527160930193	geckodriver	INFO	geckodriver 0.20.1
+1527160930205	geckodriver	INFO	Listening on 127.0.0.1:59757
+1527160931198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cCeu6EaLlcIS"
+1527160932670	Marionette	INFO	Listening on port 37097
+1527160932716	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 29723, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 29723, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 29723, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 29723, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 29723, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 29723, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 29723, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 29723, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1527164935267	geckodriver	INFO	geckodriver 0.20.1
+1527164935271	geckodriver	INFO	Listening on 127.0.0.1:54451
+1527164936280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OB1VGs1O1uEi"
+1527164937838	Marionette	INFO	Listening on port 42487
+1527164937890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527174159354	geckodriver	INFO	geckodriver 0.20.1
+1527174159357	geckodriver	INFO	Listening on 127.0.0.1:50983
+1527174160368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZQbBNLjcGMdO"
+1527174161640	Marionette	INFO	Listening on port 41031
+1527174161681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527174205402	geckodriver	INFO	geckodriver 0.20.1
+1527174205405	geckodriver	INFO	Listening on 127.0.0.1:46229
+1527174206414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ipvsGKLkvgNg"
+1527174207621	Marionette	INFO	Listening on port 46423
+1527174207718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527174223329	geckodriver	INFO	geckodriver 0.20.1
+1527174223341	geckodriver	INFO	Listening on 127.0.0.1:41585
+1527174224340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QF77kejBRrAt"
+1527174225592	Marionette	INFO	Listening on port 33045
+1527174225651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527174316553	geckodriver	INFO	geckodriver 0.20.1
+1527174316556	geckodriver	INFO	Listening on 127.0.0.1:37077
+1527174317564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SoVPdayJQ5be"
+1527174318753	Marionette	INFO	Listening on port 38321
+1527174318776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527174366728	geckodriver	INFO	geckodriver 0.20.1
+1527174366731	geckodriver	INFO	Listening on 127.0.0.1:60857
+1527174367739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JAP08f6rdCTX"
+1527174368955	Marionette	INFO	Listening on port 34303
+1527174369044	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10935, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527174453568	geckodriver	INFO	geckodriver 0.20.1
+1527174453572	geckodriver	INFO	Listening on 127.0.0.1:48987
+1527174454580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3BqrPp8eFCcF"
+1527174455833	Marionette	INFO	Listening on port 35367
+1527174455887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527174550960	geckodriver	INFO	geckodriver 0.20.1
+1527174550964	geckodriver	INFO	Listening on 127.0.0.1:44465
+1527174551972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2FxFuYbEkU4L"
+1527174553164	Marionette	INFO	Listening on port 42585
+1527174553180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527174572540	geckodriver	INFO	geckodriver 0.20.1
+1527174572552	geckodriver	INFO	Listening on 127.0.0.1:35261
+1527174573550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ub9BOW09raui"
+1527174574753	Marionette	INFO	Listening on port 41225
+1527174574758	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527174591436	geckodriver	INFO	geckodriver 0.20.1
+1527174591448	geckodriver	INFO	Listening on 127.0.0.1:59673
+1527174592446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3XI4YsvuTFTM"
+1527174593751	Marionette	INFO	Listening on port 33667
+1527174593851	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13553, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527174640870	geckodriver	INFO	geckodriver 0.20.1
+1527174640873	geckodriver	INFO	Listening on 127.0.0.1:59221
+1527174641882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qKWLFWDknbYJ"
+1527174643121	Marionette	INFO	Listening on port 43227
+1527174643195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527175948499	geckodriver	INFO	geckodriver 0.20.1
+1527175948502	geckodriver	INFO	Listening on 127.0.0.1:55007
+1527175949503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TLsuDYPg8DvI"
+1527175950780	Marionette	INFO	Listening on port 37935
+1527175950814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527176104209	geckodriver	INFO	geckodriver 0.20.1
+1527176104213	geckodriver	INFO	Listening on 127.0.0.1:38965
+1527176105221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VmfZTh5davhA"
+1527176106657	Marionette	INFO	Listening on port 39685
+1527176106728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527176173452	geckodriver	INFO	geckodriver 0.20.1
+1527176173457	geckodriver	INFO	Listening on 127.0.0.1:39711
+1527176174468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lUegcX3r3mgf"
+1527176175805	Marionette	INFO	Listening on port 37127
+1527176175876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527178465699	geckodriver	INFO	geckodriver 0.20.1
+1527178465703	geckodriver	INFO	Listening on 127.0.0.1:35281
+1527178466712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5A4s53ShGXpu"
+1527178468382	Marionette	INFO	Listening on port 36393
+1527178468426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527178729576	geckodriver	INFO	geckodriver 0.20.1
+1527178729582	geckodriver	INFO	Listening on 127.0.0.1:38479
+1527178730587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EbObbPB6FEiw"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 19580, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527178732082	Marionette	INFO	Listening on port 40767
+1527178732095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527183274416	geckodriver	INFO	geckodriver 0.20.1
+1527183274421	geckodriver	INFO	Listening on 127.0.0.1:49141
+1527183275420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t5BwNVU6auey"
+1527183276735	Marionette	INFO	Listening on port 38073
+1527183276826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527187039658	geckodriver	INFO	geckodriver 0.20.1
+1527187039662	geckodriver	INFO	Listening on 127.0.0.1:43907
+1527187040669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ApKAknAmGcO5"
+1527187041932	Marionette	INFO	Listening on port 39967
+1527187041976	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1527187740333	geckodriver	INFO	geckodriver 0.20.1
+1527187740339	geckodriver	INFO	Listening on 127.0.0.1:51381
+1527187741346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HHGqynRUdrPu"
+1527187742703	Marionette	INFO	Listening on port 42769
+1527187742756	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527187764996	geckodriver	INFO	geckodriver 0.20.1
+1527187765000	geckodriver	INFO	Listening on 127.0.0.1:60677
+1527187766002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X8r2VwFRhCTd"
+1527187767351	Marionette	INFO	Listening on port 43419
+1527187767415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527187897094	geckodriver	INFO	geckodriver 0.20.1
+1527187897098	geckodriver	INFO	Listening on 127.0.0.1:60843
+1527187898105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dL8dUrBhFgWO"
+1527187899363	Marionette	INFO	Listening on port 36215
+1527187899410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527187910755	geckodriver	INFO	geckodriver 0.20.1
+1527187910758	geckodriver	INFO	Listening on 127.0.0.1:44773
+1527187911766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8mu36bUJS73d"
+1527187913062	Marionette	INFO	Listening on port 35111
+1527187913074	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527187939543	geckodriver	INFO	geckodriver 0.20.1
+1527187939547	geckodriver	INFO	Listening on 127.0.0.1:51139
+1527187940556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DtsCyM2fjHsa"
+1527187941934	Marionette	INFO	Listening on port 37101
+1527187941976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527187955898	geckodriver	INFO	geckodriver 0.20.1
+1527187955905	geckodriver	INFO	Listening on 127.0.0.1:33911
+1527187956902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.knnSMdNRxKYj"
+1527187958250	Marionette	INFO	Listening on port 43817
+1527187958318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527187960184	geckodriver	INFO	geckodriver 0.20.1
+1527187960189	geckodriver	INFO	Listening on 127.0.0.1:40811
+1527187976243	geckodriver	INFO	geckodriver 0.20.1
+1527187976247	geckodriver	INFO	Listening on 127.0.0.1:40043
+1527187977255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6Qy8wgFeYkj0"
+1527187978575	Marionette	INFO	Listening on port 44827
+1527187978660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527190599985	geckodriver	INFO	geckodriver 0.20.1
+1527190599988	geckodriver	INFO	Listening on 127.0.0.1:40283
+1527190600996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3yxTim1Aeo0A"
+1527190602320	Marionette	INFO	Listening on port 37365
+1527190602401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527190623681	geckodriver	INFO	geckodriver 0.20.1
+1527190623684	geckodriver	INFO	Listening on 127.0.0.1:59861
+1527190624692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sM07Um7qPjBe"
+1527190625965	Marionette	INFO	Listening on port 40621
+1527190626012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527190635174	geckodriver	INFO	geckodriver 0.20.1
+1527190635178	geckodriver	INFO	Listening on 127.0.0.1:51665
+1527190636184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EGbdwJrqnd8k"
+1527190637452	Marionette	INFO	Listening on port 37497
+1527190637499	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527190642411	geckodriver	INFO	geckodriver 0.20.1
+1527190642415	geckodriver	INFO	Listening on 127.0.0.1:50243
+1527190643475	geckodriver	INFO	geckodriver 0.20.1
+1527190643478	geckodriver	INFO	Listening on 127.0.0.1:52333
+1527190711951	geckodriver	INFO	geckodriver 0.20.1
+1527190711955	geckodriver	INFO	Listening on 127.0.0.1:55543
+1527190712965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UINR1xdeZsys"
+1527190714287	Marionette	INFO	Listening on port 33049
+1527190714371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527190767364	geckodriver	INFO	geckodriver 0.20.1
+1527190767367	geckodriver	INFO	Listening on 127.0.0.1:45549
+1527190768375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6OU4SaG8TYMw"
+1527190769633	Marionette	INFO	Listening on port 41319
+1527190769685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527192394965	geckodriver	INFO	geckodriver 0.20.1
+1527192394978	geckodriver	INFO	Listening on 127.0.0.1:52363
+1527192395976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0DgeuEhLesj6"
+1527192397329	Marionette	INFO	Listening on port 46319
+1527192397383	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1527192494844	geckodriver	INFO	geckodriver 0.20.1
+1527192494857	geckodriver	INFO	Listening on 127.0.0.1:57347
+1527192495863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.r3WZrIILIuaQ"
+1527192732934	geckodriver	INFO	geckodriver 0.20.1
+1527192732940	geckodriver	INFO	Listening on 127.0.0.1:48123
+1527192733565	geckodriver	INFO	geckodriver 0.20.1
+1527192733570	geckodriver	INFO	Listening on 127.0.0.1:33165
+1527192888783	geckodriver	INFO	geckodriver 0.20.1
+1527192888786	geckodriver	INFO	Listening on 127.0.0.1:58187
+1527192889794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z935pLM50Vhl"
+1527192891120	Marionette	INFO	Listening on port 43897
+1527192891205	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527192910089	geckodriver	INFO	geckodriver 0.20.1
+1527192910092	geckodriver	INFO	Listening on 127.0.0.1:60127
+1527192910383	geckodriver	INFO	geckodriver 0.20.1
+1527192910387	geckodriver	INFO	Listening on 127.0.0.1:34191
+1527192927679	geckodriver	INFO	geckodriver 0.20.1
+1527192927684	geckodriver	INFO	Listening on 127.0.0.1:35439
+1527192928692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DAv3QU4jXKOV"
+1527192929955	Marionette	INFO	Listening on port 35961
+1527192930003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527192943177	geckodriver	INFO	geckodriver 0.20.1
+1527192943182	geckodriver	INFO	Listening on 127.0.0.1:60755
+1527192946070	geckodriver	INFO	geckodriver 0.20.1
+1527192946073	geckodriver	INFO	Listening on 127.0.0.1:33141
+1527192947082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dIwOIkJiWvQD"
+1527192948328	Marionette	INFO	Listening on port 39397
+1527192948387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527192951150	geckodriver	INFO	geckodriver 0.20.1
+1527192951154	geckodriver	INFO	Listening on 127.0.0.1:58647
+1527192964512	geckodriver	INFO	geckodriver 0.20.1
+1527192964515	geckodriver	INFO	Listening on 127.0.0.1:39059
+1527192965524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aaqvUYviHrZK"
+1527192966205	geckodriver	INFO	geckodriver 0.20.1
+1527192966209	geckodriver	INFO	Listening on 127.0.0.1:58031
+1527192973319	geckodriver	INFO	geckodriver 0.20.1
+1527192973323	geckodriver	INFO	Listening on 127.0.0.1:50827
+1527192974331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pkkurgq44hRA"
+1527192975574	Marionette	INFO	Listening on port 32885
+1527192975638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527193053996	geckodriver	INFO	geckodriver 0.20.1
+1527193054003	geckodriver	INFO	Listening on 127.0.0.1:38939
+1527193055006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.J582zOBmHz3E"
+1527193056252	Marionette	INFO	Listening on port 44281
+1527193056317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527194633510	geckodriver	INFO	geckodriver 0.20.1
+1527194633516	geckodriver	INFO	Listening on 127.0.0.1:37989
+1527194634523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.628Pp9hb2Vs2"
+1527248158108	geckodriver	INFO	geckodriver 0.20.1
+1527248158111	geckodriver	INFO	Listening on 127.0.0.1:38311
+1527248159116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4vJTvDkSMA0f"
+1527248160469	Marionette	INFO	Listening on port 40015
+1527248160524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527251582238	geckodriver	INFO	geckodriver 0.20.1
+1527251582253	geckodriver	INFO	Listening on 127.0.0.1:41153
+1527251583254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h1uHI2PyVyKZ"
+1527251585031	Marionette	INFO	Listening on port 36797
+1527251585068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527251628240	geckodriver	INFO	geckodriver 0.20.1
+1527251628243	geckodriver	INFO	Listening on 127.0.0.1:34759
+1527251629246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OF2yoautWBoS"
+1527251630525	Marionette	INFO	Listening on port 35331
+1527251630555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527253552432	geckodriver	INFO	geckodriver 0.20.1
+1527253552435	geckodriver	INFO	Listening on 127.0.0.1:44837
+1527253553442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.deaciLlidiQ5"
+1527253554747	Marionette	INFO	Listening on port 37171
+1527253554848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527253669037	geckodriver	INFO	geckodriver 0.20.1
+1527253669040	geckodriver	INFO	Listening on 127.0.0.1:60599
+1527253670048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7AXXkuVILYDo"
+1527253671321	Marionette	INFO	Listening on port 36369
+1527253671362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527253781523	geckodriver	INFO	geckodriver 0.20.1
+1527253781527	geckodriver	INFO	Listening on 127.0.0.1:35707
+1527253782534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uqkXy3HEIigR"
+1527253783809	Marionette	INFO	Listening on port 39353
+1527253783852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527253893052	geckodriver	INFO	geckodriver 0.20.1
+1527253893055	geckodriver	INFO	Listening on 127.0.0.1:36777
+1527253894063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6vNo3fpHGJa4"
+1527253895357	Marionette	INFO	Listening on port 39041
+1527253895383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527254001214	geckodriver	INFO	geckodriver 0.20.1
+1527254001218	geckodriver	INFO	Listening on 127.0.0.1:60189
+1527254002227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YkodxXloKHN2"
+1527254003511	Marionette	INFO	Listening on port 45255
+1527254003539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527254120377	geckodriver	INFO	geckodriver 0.20.1
+1527254120381	geckodriver	INFO	Listening on 127.0.0.1:33979
+1527254121385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KUMzDF7MJd4P"
+1527254122670	Marionette	INFO	Listening on port 46613
+1527254122693	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10702, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1527259238506	geckodriver	INFO	geckodriver 0.20.1
+1527259238513	geckodriver	INFO	Listening on 127.0.0.1:33791
+1527259239524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZLOpp1oistX8"
+1527259240782	Marionette	INFO	Listening on port 34471
+1527259240831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527260440707	geckodriver	INFO	geckodriver 0.20.1
+1527260440712	geckodriver	INFO	Listening on 127.0.0.1:48341
+1527260441712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LylvZTdcS06Z"
+1527260442993	Marionette	INFO	Listening on port 41821
+1527260443030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527260491184	geckodriver	INFO	geckodriver 0.20.1
+1527260491187	geckodriver	INFO	Listening on 127.0.0.1:54741
+1527260511368	geckodriver	INFO	geckodriver 0.20.1
+1527260511371	geckodriver	INFO	Listening on 127.0.0.1:48509
+1527260512381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yA81fuqmTbkg"
+1527260513731	Marionette	INFO	Listening on port 45305
+1527260513802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527262548199	geckodriver	INFO	geckodriver 0.20.1
+1527262548202	geckodriver	INFO	Listening on 127.0.0.1:46117
+1527262549210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jBZTwUdu84Hd"
+1527262550549	Marionette	INFO	Listening on port 39353
+1527262550617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527262581338	geckodriver	INFO	geckodriver 0.20.1
+1527262581341	geckodriver	INFO	Listening on 127.0.0.1:51287
+1527262582350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JZDrPF246T7r"
+1527262649609	geckodriver	INFO	geckodriver 0.20.1
+1527262649613	geckodriver	INFO	Listening on 127.0.0.1:50773
+1527262650622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GhLMcPRW4lN9"
+1527262651937	Marionette	INFO	Listening on port 42637
+1527262652028	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527262671072	geckodriver	INFO	geckodriver 0.20.1
+1527262671084	geckodriver	INFO	Listening on 127.0.0.1:39487
+1527262717499	geckodriver	INFO	geckodriver 0.20.1
+1527262717502	geckodriver	INFO	Listening on 127.0.0.1:48779
+1527262718511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xAbsqi3men8J"
+1527262719749	Marionette	INFO	Listening on port 45713
+1527262719822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527263592667	geckodriver	INFO	geckodriver 0.20.1
+1527263592671	geckodriver	INFO	Listening on 127.0.0.1:57079
+1527263593673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9w9oq677Ic4W"
+1527263594896	Marionette	INFO	Listening on port 39357
+1527263594978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527264776357	geckodriver	INFO	geckodriver 0.20.1
+1527264776360	geckodriver	INFO	Listening on 127.0.0.1:48439
+1527264777367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.trg7lPhKuQwE"
+1527264778669	Marionette	INFO	Listening on port 39291
+1527264778675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527265032222	geckodriver	INFO	geckodriver 0.20.1
+1527265032226	geckodriver	INFO	Listening on 127.0.0.1:50583
+1527265033236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Yuhr9fZcvz57"
+1527265034574	Marionette	INFO	Listening on port 37675
+1527265034651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527265750364	geckodriver	INFO	geckodriver 0.20.1
+1527265750368	geckodriver	INFO	Listening on 127.0.0.1:54375
+1527265751378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KjGoNJ7Zy1TQ"
+1527265752690	Marionette	INFO	Listening on port 43001
+1527265752784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527266178685	geckodriver	INFO	geckodriver 0.20.1
+1527266178693	geckodriver	INFO	Listening on 127.0.0.1:58225
+1527266179696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BXs8PFeUUSfz"
+1527266181170	Marionette	INFO	Listening on port 37779
+1527266181205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527272673721	geckodriver	INFO	geckodriver 0.20.1
+1527272673725	geckodriver	INFO	Listening on 127.0.0.1:44263
+1527272674732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bUlRfU9UqSG5"
+1527272676105	Marionette	INFO	Listening on port 46439
+1527272676146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527273362626	geckodriver	INFO	geckodriver 0.20.1
+1527273362630	geckodriver	INFO	Listening on 127.0.0.1:36341
+1527273363636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DAksfROYwiAE"
+1527273365119	Marionette	INFO	Listening on port 41701
+1527273365143	Marionette	WARN	TLS certificate errors will be ignored for this session

@@ -1,0 +1,61 @@
+div.divForm {
+  width: auto;
+  display: inline;
+  float: left;
+}
+
+div.form_caption {
+  text-align: center;
+  color: red;
+  font-size: 15px;
+  font-family: "Arial";
+  margin-bottom: 10px;
+}
+
+.form_wrapper {
+  width: auto;
+  height: auto;
+  margin-bottom: 10px;
+  overflow: auto;
+}
+
+input[type=radio]{
+  background: yellow;
+}
+
+input[type=text], input[type=password] {
+  background: yellow;
+  border: yellow;
+  height: 20px;
+  padding: 2px;
+}
+
+textarea {
+  background: yellow;
+  border: yellow;
+}
+
+input[type=text]:focus, input[type=password]:focus, textarea:focus {
+  background: #a2b9bc;
+  border: #a2b9bc;
+}
+
+.form_wrapper select {
+  width: 213px;
+  height: 20px;
+}
+
+.input_style {
+  float: left;
+  width: 210px;
+}
+
+span.formLabels {
+  float: left;
+  width: 100px;
+  text-decoration: underline;
+  font-family: "Arial";
+  text-align: right;
+  margin-right: 8px;
+  padding-top: 3px;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+        <link rel="stylesheet" href="styles/styles.css"/>
+        <script type="text/javascript" src="scripts/formValidation.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Kayit Formu</title>
+    </head>
+    <body>
+      <div class = "divForm">
+        <div class = "form_caption">Kayıt Formu</div>
+        <form id = "registerForm" action="http://httpbin.org/post" onsubmit="return validateForm()" method="post">
+          <div class="form_wrapper">
+            <span class = "formLabels">Ad Soyad </span> <input class = "input_style" type="text" name="name"/><br/>
+          </div>
+          <div class="form_wrapper">
+            <span class = "formLabels">TC Kimlik </span> <input class = "input_style" type="text" name="tcKimlik"/><br/>
+          </div>
+          <div class="form_wrapper">
+            <span class = "formLabels">Ögrenci ID </span> <input class = "input_style" type="text" name="ogrNo"/><br/>
+          </div>
+          <div class="form_wrapper">
+            <span class = "formLabels">Doğum Tarihi </span> <input class = "input_style" type="text" name="dTarih"/><br/>
+          </div>
+          <div class="form_wrapper">
+            <span class = "formLabels">E-posta </span> <input class = "input_style" type="text" name="eposta"/><br/>
+          </div>
+          <div class="form_wrapper">
+            <span class = "formLabels">Şifre </span> <input class = "input_style" type="password" name="sifre"/><br/>
+          </div>
+          <div class="form_wrapper">
+            <span class = "formLabels">Bölüm </span>
+              <select class = "input_style" name = "bolum">
+                <option value="bilgisayar_muhendisligi">Bilgisayar Mühendisliği</option>
+                <option value="biyomedikal_muhendisligi">Biyomedikal Mühendisliği</option>
+                <option value="elektrik-elektronik_muhendisligi">Elektrik-Elektronik Mühendisliği</option>
+                <option value="endustri_muhendisligi">Endüstri Mühendisliği</option>
+                <option value="makine_muhendisligi">Makine Mühendisliği</option>
+                <option value="malzeme-bilimi-ve-nanoteknoloji_muhendisligi">Malzeme Bilimi ve Nanoteknoloji Mühendisliği</option>
+              </select><br/>
+          </div>
+          <div class="form_wrapper">
+            <span class = "formLabels">Mezun? </span>
+                <input type="radio" name="mezun" value="evet"/>Evet
+                <input type="radio" name="mezun" value="hayir"/>Hayır
+                <br/>
+          </div>
+          <div class="form_wrapper">
+            <span class = "formLabels">Not </span>
+                <textarea name="not" rows="7" cols="30" style="resize: none;"></textarea>
+          </div>
+          <div class="form_wrapper">
+            <input type="reset" value="Temizle" style="margin-left: 15px;"/>
+            <input type="submit" value="Kaydet" style="margin-left: 15px;"/>
+          </div>
+        </form>
+      </div>
+    </body>
+</html>
